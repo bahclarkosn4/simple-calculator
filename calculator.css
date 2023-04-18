@@ -1,0 +1,24 @@
+table{
+  border: 2px solid;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius:5px;
+  margin:10px black;
+}
+td{
+  font:bold;
+  font-size:20px;
+  border-radius:8px;
+  padding:30px;
+  border-color:black;
+  background-color:skyblue;
+  border:1px solid black;
+  
+}
+
+body{
+	text-align:center;
+}
+h1{
+	text-transform:uppercase;
+}
